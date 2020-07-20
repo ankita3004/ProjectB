@@ -128,6 +128,8 @@ function buildAndShowHomeHTML (categories) {
                               categoriesTitleHtml,
                               categoryHtml);
     insertHtml("#main-content", homeHtmlToInsertIntoMainPage);
+    },
+    false);
 
 
 
